@@ -1,9 +1,9 @@
 # Custom python functions
 
 def double_number(a):
-'''This function takes the input and prints the number before and after doubling it and returns the doubled number'''
+'''This function takes the input (a) which is a number and prints the number before and after doubling it and returns the doubled number (a+a)'''
     return a+a
 
 def square_number(a):
-'''This function takes the input and prints the original number and the square of it and returns the squared number'''
+'''This function takes the input (a) which is a number and prints the original number and the square of it and returns the squared number (a*a)'''
     return a*a
